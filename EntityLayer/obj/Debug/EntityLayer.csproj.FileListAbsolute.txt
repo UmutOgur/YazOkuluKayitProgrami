@@ -1,0 +1,5 @@
+C:\Users\baxan\OneDrive\Belgeler\Visual Studio 2015\Projects\YazOkuluUygulama\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\baxan\OneDrive\Belgeler\Visual Studio 2015\Projects\YazOkuluUygulama\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\baxan\OneDrive\Belgeler\Visual Studio 2015\Projects\YazOkuluUygulama\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\baxan\OneDrive\Belgeler\Visual Studio 2015\Projects\YazOkuluUygulama\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\baxan\OneDrive\Belgeler\Visual Studio 2015\Projects\YazOkuluUygulama\EntityLayer\obj\Debug\EntityLayer.pdb

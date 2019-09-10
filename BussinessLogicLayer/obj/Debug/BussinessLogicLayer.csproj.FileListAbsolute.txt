@@ -1,0 +1,9 @@
+C:\Users\baxan\OneDrive\Belgeler\Visual Studio 2015\Projects\YazOkuluUygulama\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Users\baxan\OneDrive\Belgeler\Visual Studio 2015\Projects\YazOkuluUygulama\BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\baxan\OneDrive\Belgeler\Visual Studio 2015\Projects\YazOkuluUygulama\BussinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\baxan\OneDrive\Belgeler\Visual Studio 2015\Projects\YazOkuluUygulama\BussinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\baxan\OneDrive\Belgeler\Visual Studio 2015\Projects\YazOkuluUygulama\BussinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\baxan\OneDrive\Belgeler\Visual Studio 2015\Projects\YazOkuluUygulama\BussinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\baxan\OneDrive\Belgeler\Visual Studio 2015\Projects\YazOkuluUygulama\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\baxan\OneDrive\Belgeler\Visual Studio 2015\Projects\YazOkuluUygulama\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Users\baxan\OneDrive\Belgeler\Visual Studio 2015\Projects\YazOkuluUygulama\BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb
